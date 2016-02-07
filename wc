@@ -1,0 +1,6 @@
+The wc command prints the byte, word, and newline counts for a specificed file. 
+  The wc command has a number of options, inlcuding:
+  wc -l to print the number of lines
+  wc -w to print the number of words
+  wc -c to display a byte count of a given file
+  wc -m to print the number of characters in a given file
