@@ -1,0 +1,5 @@
+grep is used to search a given file, and prints the lines that contain a given word or pattern.
+grep takes two parameters: the first is what you want to search for and the second is what files you want to search through
+
+Eg: grep a FileName.txt searched for all lines with the letter A in FileName.txt
+Eg: grep binary *.txt (Only wanted to look at files with the word binary in them)
