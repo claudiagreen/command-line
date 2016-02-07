@@ -1,0 +1,6 @@
+mv can be used to move or rename a file or folder
+
+If being used to rename a file in the current directory, mv takes 2 parameters  (existing name, new name) eg: mv existName newName
+If being used to move a file from current directory to a new directory, it again takes 2 parameters, separated by ~/ eg: mv existName ~/destDirName
+
+You can also rename and move in one go, eg: mv existName ~/destDirName/newFileName
